@@ -20,8 +20,8 @@ Claude Code를 열고 아래를 입력합니다:
 ## Step 2. 프로젝트 폴더 만들기
 
 ```bash
-mkdir my-landing-page
-cd my-landing-page
+mkdir product-woongjae
+cd product-woongjae
 git init
 ```
 
